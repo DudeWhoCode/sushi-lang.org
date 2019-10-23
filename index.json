@@ -1,0 +1,22 @@
+[
+{
+	"uri": "https://sushi-lang.org/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://sushi-lang.org/",
+	"title": "Home",
+	"tags": [],
+	"description": "",
+	"content": " sushi programming language Sushi is an interpreted programming language being written using Go.\nSushi is not production ready. While I will be the happiest person in this universe if Sushi gets used in production one day, but sadly right now it is just a new born baby.\n "
+},
+{
+	"uri": "https://sushi-lang.org/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
