@@ -1,17 +1,24 @@
 [
 {
+	"uri": "https://sushi-lang.org/faq/",
+	"title": "FAQ",
+	"tags": [],
+	"description": "",
+	"content": " 1. Why yet another programming language? Why not? This language is being created while I progress on my research about language design and compiler engineering. This project grants me the freedom of independent research.\n2. How Sushi is different from other languages? At this stage, one cannot compare sushi with other mature programming languages. I am still figuring it out the language\u0026rsquo;s purpose.\n3. Can I contribute to this project? Definitely yes. Currently it lacks documentation. The only documentation available right now is the book. If you finish this book you can easily contribute to this project, but I am sure by end of this book you will have your own programming language. But if you still want to contribute, hit me up.\n"
+},
+{
+	"uri": "https://sushi-lang.org/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " sushi programming language Sushi is an interpreted programming language being written using Go.\nThis project was started by me when exploring about compiler engineering. You can take a look around the website to know more about the language features.\nThe content of this website will grow as the language grows. The current version of the language is more or less same as monkey programming language as I wrote sushi side by side while reading their book.\n( Documentation under progress )\n"
+},
+{
 	"uri": "https://sushi-lang.org/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "https://sushi-lang.org/",
-	"title": "Home",
-	"tags": [],
-	"description": "",
-	"content": " sushi programming language Sushi is an interpreted programming language being written using Go.\nSushi is not production ready. While I will be the happiest person in this universe if Sushi gets used in production one day, but sadly right now it is just a new born baby.\n "
 },
 {
 	"uri": "https://sushi-lang.org/tags/",
